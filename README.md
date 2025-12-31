@@ -9,6 +9,10 @@
 ![Playwright](https://img.shields.io/badge/Playwright-1.40+-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
+<img width="1274" height="829" alt="image" src="https://github.com/user-attachments/assets/5dc0d800-bd5f-46da-a689-868a4d43698e" />
+
+
+
 ---
 
 ## ✨ 주요 기능
